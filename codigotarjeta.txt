@@ -1,0 +1,7 @@
+<div class="card">
+  <img src="link imagen" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>JNombre alumno</b></h4>
+    <p>Descripción del lugar</p>
+  </div>
+</div>
